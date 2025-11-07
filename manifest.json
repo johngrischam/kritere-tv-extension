@@ -5,15 +5,12 @@
   "description": "Tutta la TV italiana.",
   "action": {
     "default_title": "Kritere TV",
+    "default_popup": "popup.html",
     "default_icon": "icon.png"
-  },
-  "background": {
-    "service_worker": "background.js"
   },
   "icons": {
     "48": "icon.png",
     "128": "icon.png"
   },
-  "permissions": ["tabs"]
+  "permissions": []
 }
-
