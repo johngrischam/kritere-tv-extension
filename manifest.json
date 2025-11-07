@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Kritere TV",
   "version": "1.0",
-  "description": "Guarda i canali TV italiani in diretta e senza pubblicità con un solo clic.",
+  "description": "Tutta la TV italiana.",
   "action": {
     "default_title": "Kritere TV",
     "default_icon": "icon.png"
